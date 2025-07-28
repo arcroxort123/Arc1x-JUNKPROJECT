@@ -1,0 +1,1 @@
+This is the attempts to autocode the Scrapheap . Most of this is JUNK but may be redeemable in some way. I will be working on the rest here, there have been some hiccups here and there and it shows, I am just using it as a basis for what the ai seems to want to even CODE for now. Projected DueDate : Xmas2025
